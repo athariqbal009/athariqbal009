@@ -1,3 +1,9 @@
+- 🔭 I’m currently working on: Jetpack Compose, Kotlin, Flutter
+- 🌱 I’m currently learning: Jetpack Compose, System Design, Clean Architecture 
+- 👯 I’m looking to collaborate on: Open Source Projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about: Android, Java, Kotlin
+
 ![Profile views](https://gpvc.arturio.dev/athariqbal009)
 
 <center>
